@@ -22,6 +22,7 @@ public class URI1006 {
 		System.out.printf("MEDIA = %.1f\n", MEDIA);
 
 		input.close();
+		// teste
 
 	}
 
