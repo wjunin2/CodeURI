@@ -10,6 +10,7 @@ public class URI1009 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 		
+		@SuppressWarnings("unused")
 		String nome;
 		double salario, vendas, x;
 		

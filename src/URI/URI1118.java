@@ -36,5 +36,6 @@ public class URI1118 {
 			}
 
 		}
+		leitor.close();
 	}
 }

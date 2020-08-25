@@ -10,13 +10,13 @@ public class URI1010 {
 		Locale.setDefault(Locale.US);
 		Scanner sc = new Scanner(System.in);
 
-		int cod1, cod2, num1, num2;
+		int num1, num2;
 		double valor1, valor2, total;
 
-		cod1 = sc.nextInt();
+		sc.nextInt();
 		num1 = sc.nextInt();
 		valor1 = sc.nextDouble();
-		cod2 = sc.nextInt();
+		sc.nextInt();
 		num2 = sc.nextInt();
 		valor2 = sc.nextDouble();
 
